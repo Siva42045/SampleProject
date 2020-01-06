@@ -9,8 +9,6 @@ Good evening
 
 Hello
 
-<<<<<<< HEAD
-Message
-=======
+
 added msg
->>>>>>> f26e152514b8e6d6af26831b0ea51ebc3852caa3
+
